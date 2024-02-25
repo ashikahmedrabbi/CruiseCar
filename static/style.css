@@ -1,0 +1,23 @@
+.background {
+    background-image: url('../static/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.button{
+    background-color: #063970;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.button a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+   
+}
+
